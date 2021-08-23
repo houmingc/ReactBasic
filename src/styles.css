@@ -1,0 +1,19 @@
+body {
+  margin: 20px;
+  background-color: yellow;
+}
+.App {
+  font-family: sans-serif;
+  text-align: left;
+  color: purple;
+}
+
+.MyPara {
+  font-style: italic;
+  font-size: 20px;
+}
+
+#love {
+  color: red;
+  font-size: 130%;
+}
