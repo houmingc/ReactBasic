@@ -17,6 +17,9 @@ HTML body event="EventHandler()"  <br/>
 script EventHandler
 
 
+
+
+
 [react Fragment](https://frontarm.com/james-k-nelson/react-fragments-in-practice/)  
 
 [ReactDOM-with Fragment](https://codepen.io/reactjs/pen/VrEbjE?editors=1000)  
@@ -26,3 +29,14 @@ script EventHandler
 
 
 [Youtube tutorial](https://www.youtube.com/watch?v=Nm0inP3B_zs)
+
+
+
+An update can be caused by changes to props/state. These methods are called in the following order when a component is being re-rendered:
+1> static getDerivedStateFromProps()
+2> shouldComponentUpdate()
+3> render()
+4> getSnapshotBeforeUpdate()
+5> componentDidUpdate()
+
+
