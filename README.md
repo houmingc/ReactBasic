@@ -19,7 +19,8 @@ script EventHandler
 
 [react Fragment](https://frontarm.com/james-k-nelson/react-fragments-in-practice/)  
 
-[ReactDOM-with Fragment](https://codepen.io/reactjs/pen/VrEbjE?editors=1000)
+[ReactDOM-with Fragment](https://codepen.io/reactjs/pen/VrEbjE?editors=1000)  
+**render() div tag calling div Fragments**
 
 [Youtube on React Rendering](https://www.youtube.com/watch?v=VPtL6dU0YXc)
 
