@@ -9,7 +9,7 @@ This allows fragments to be used as items from an array
 3. React rerender
 (a) During rerender phase, component can flagged itself for an update, calling useState function or useReducer dispatch function
 (b) react will start at component tree root and transverse downwards to leaf component, finding all components that have been flagged as needing update.
-(c) Then for each flagged component, react will invoke 'createElement() method', converts JSX into react elements aand stores that render output.
+(c) Then for each flagged component, react will invoke `createElement() method`, converts JSX into react elements aand stores that render output.
 (d) Once all conversion is done for all **flagged components**, react will compare the new set of react elements with the one that was produced from last render.
 
 
