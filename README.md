@@ -13,5 +13,5 @@ This allows fragments to be used as items from an array
 (d) Once all conversion is done for all flagged components, react will compare the new set of react elements with the one that was produced from last render.
 
 
-Event is HTML body,
-EventHandler is inside script
+HTML body event=EventHandler  <br/>
+script EventHandler
