@@ -33,10 +33,10 @@ script EventHandler
 
 
 An update can be caused by changes to props/state. These methods are called in the following order when a component is being re-rendered:
-1> static getDerivedStateFromProps()
-2> shouldComponentUpdate()
-3> render()
-4> getSnapshotBeforeUpdate()
-5> componentDidUpdate()
+1> static getDerivedStateFromProps()  
+2> shouldComponentUpdate()  
+3> render()  
+4> getSnapshotBeforeUpdate()  
+5> componentDidUpdate()  
 
 
