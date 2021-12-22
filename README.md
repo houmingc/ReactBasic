@@ -15,3 +15,6 @@ This allows fragments to be used as items from an array
 
 HTML body event="EventHandler()"  <br/>
 script EventHandler
+
+
+[react Fragment](https://frontarm.com/james-k-nelson/react-fragments-in-practice/)
